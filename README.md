@@ -1,0 +1,2 @@
+# ONLINE-SALAD-AND-SHAKE-SALES-MANAGMENT-SYSTEM-PHP
+The Objective of Online Salad And Shake management system that product sales management system is to facilitate the selling of products Online without an intervention of any third party. This system also manage the details of Customer’s, Stock, Product, Payment, Sells.In the manages all the information about Customer, Sales, Payment. Providing facility to the customer’s for online booking of Salad and Shakes in advanced also Inform Customers about delivery status
